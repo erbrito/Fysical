@@ -1,5 +1,5 @@
 ### Fysical Smart Contract
-Fysical is a smart contract for introducing and trading arbitrarily-large data resources through [Ethereum](https://www.ethereum.org/). Please visit [Fysical.org](https://fysical.org/) to learn more.
+Fysical is a [smart contract on the Ethereum MainNet](https://etherscan.io/address/0x587e276dc7f2c97d986e8adf9b82d3f14d6cd8d2) for introducing and trading arbitrarily-large data resources. Please visit [Fysical.org](https://fysical.org/) to learn more.
 
 ### Smart Contract Source Code
 The smart contract source code, available under [src](./src), consists of a single [Solidity](https://solidity.readthedocs.io/en/develop/) file, [Fysical.sol](./src/Fysical.sol), and a copy of the [zeppelin-solidity v1.6.0](https://github.com/OpenZeppelin/zeppelin-solidity/releases/tag/v1.6.0) source code in a zip archive.
